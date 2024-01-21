@@ -29,6 +29,6 @@ function triangle(row) {
   }
   
   console.log(triangle("RBRGB"));
-  
+  console.log("colors");
   module.exports = { triangle };
   
